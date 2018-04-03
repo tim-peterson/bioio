@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Bio-I/O
+tagline:             A metabolomics and genomics company.
+url:                 http://bioio.tech
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tim Peterson, CEO
+  url:               https://twitter.com/bioio
+  email:             timrpeterson@wustl.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/tim-peterson/bioio
 
 # Gems
 gems:
