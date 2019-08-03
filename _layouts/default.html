@@ -9,6 +9,7 @@
       <header class="masthead">
         <h1 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}.</a>
+          <br>
           <small>{{ site.tagline }}</small>
 
         </h1>
@@ -17,7 +18,10 @@
       </header>
 
       <main>
-        {{ content }}
+          {% comment %}
+          {{ content }}
+          {% endcomment %}
+        
       </main>
 
       <footer class="footer">
